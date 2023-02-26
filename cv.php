@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>CV Owner Rahid Agency</title>
+	<link rel="stylesheet" href="cv.css">
+  <link rel="icon" type="image/x-icon" href="assets/img/code-solid.svg" />
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+</head>
+<body>
+
+<div class="resume">
+   <div class="resume_left">
+     <div class="resume_profile">
+       <img src="profile.png" alt="profile_pic">
+     </div>
+     <div class="resume_content">
+       <div class="resume_item resume_info">
+         <div class="title">
+           <p class="bold">Rahmat Hidayat</p>
+           <p class="regular">Cirebon, 13 Oktober 1996</p>
+           <h5 class="regular">"Owner Rahid Agency"</h5>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fas fa-map-signs"></i>
+             </div>
+             <div class="data">
+               Klangenan - Cirebon, <br> Jawa Barat. <br> Indonesia
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-mobile-alt"></i>
+             </div>
+             <div class="data">
+               +6289 6761 13276
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-envelope"></i>
+             </div>
+             <div class="data">
+               rahidoct@gmail.com
+             </div>
+           </li>
+         </ul>
+       </div>
+       <div class="resume_item resume_skills">
+         <div class="title">
+           <p class="bold">skill's it</p>
+         </div>
+         <ul>
+           <li>
+             <div class="skill_name">
+               HTML
+             </div>
+             <div class="skill_progress">
+               <span style="width: 80%;"></span>
+             </div>
+             <div class="skill_per">80%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               CSS
+             </div>
+             <div class="skill_progress">
+               <span style="width: 70%;"></span>
+             </div>
+             <div class="skill_per">70%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               JS
+             </div>
+             <div class="skill_progress">
+               <span style="width: 60%;"></span>
+             </div>
+             <div class="skill_per">60%</div>
+           </li>
+         </ul>
+       </div>
+       <div class="resume_item resume_social">
+         <div class="title">
+           <p class="bold">social media</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fab fa-facebook-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Facebook</p>
+               <p>rahidoct@facebook</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-twitter-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Twitter</p>
+               <p>@RahidBack</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-instagram-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Instagram</p>
+               <p>@rahidoct</p>
+             </div>
+           </li>
+         </ul>
+       </div>
+     </div>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+        <div class="title">
+           <p class="bold" align="right" border="2px solid">Curriculum Vitae</p>
+           <br>
+           <p class="bold">Tentang Saya</p>
+         </div>
+        <p>"Buatlah jejak suksesmu sendiri, Tanpa harus mencontoh kisah sukses orang lain. !!"</p>
+    </div>
+    <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">Pengalaman Kerja</p>
+         </div>
+        <ul>
+            <li>
+              <div class="date">06 Februari 2023 - Sekarang</div>
+              <div class="info">
+                  <p class="semi-bold">PT. GITS Indonesia - MSIB</p> 
+                  <p>Studi Independen - Full Stack Web Developer</p>
+                </div>
+            </li>
+            <li>
+              <div class="date">06 Juni 2022 - 20 Oktober 2022</div>
+              <div class="info">
+                  <p class="semi-bold">UPTD Puskesmas Bangodua</p> 
+                  <p>Projek Independen Aplikasi Puskesmas</p>
+              </div>
+            </li>
+        </ul>
+    </div>
+    <div class="resume_item resume_education">
+      <div class="title">
+           <p class="bold">Pendidikan</p>
+         </div>
+        <ul>
+            <li>
+                <div class="date">2020 - Sekarang</div> 
+                <div class="info">
+                     <p class="semi-bold">S1 - Teknik Informatika (STMIK IKMI Cirebon)</p> 
+                  <p>Semester 6.!</p>
+                </div>
+            </li>
+            <li>
+              <div class="date">2012 - 2015</div>
+              <div class="info">
+                     <p class="semi-bold">Teknik Gambar Bangunan (SMKN 1 JAMBLANG)</p> 
+                  <p>Lulusan teknik gambar bangunan, tahun 2015.!</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="resume_item resume_bussines">
+      <div class="title">
+           <p class="bold">bisnis</p>
+         </div>
+       <ul>
+         <li><a href="cv.html" title="Web Developer"><i class="fas fa-code"></i></a></li>
+         <li><a href="cv.html" title="Investor Retail"><i class="far fa-handshake"></i></a></li>
+         <li><a href="cv.html" title="Agen Pembayaran"><i class="fas fa-money-check-alt"></i></a></li>
+         <li><a href="cv.html" title="Money Management"><i class="fas fa-file-invoice-dollar"></i></a></li>
+      </ul>
+      <div class="home">
+        <a href="index.php" title="Back to home"><i class="fas fa-angle-double-left fa-3x"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
