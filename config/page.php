@@ -21,7 +21,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">SELAMAT DATANG DiWEBSITE RESMI RAHID AGENCY</p>
+                <p class="masthead-subheading font-weight-light mb-0">SELAMAT DATANG DIWEBSITE RESMI RAHID AGENCY</p>
             </div>
         </header>
         <!-- Portfolio Section-->
@@ -178,7 +178,7 @@
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
                 <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white">Tentang</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
